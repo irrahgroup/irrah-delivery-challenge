@@ -11,7 +11,7 @@ Não buscamos respostas “certas” ou “erradas”. O mais importante é ente
 * Como se comunica
 * Como toma decisões
 * Como enxerga fluxo de trabalho
-* Como utiliza práticas ágeis, métricas e pensamento de produto
+* Como utiliza práticas ágeis e métricas 
 
 ---
 
@@ -54,7 +54,7 @@ Nesse cenário, chegam simultaneamente:
 
 ## Pergunta
 
-Como você atuaria como Product Owner diante dessa situação?
+Como você atuaria diante dessa situação?
 
 
 
