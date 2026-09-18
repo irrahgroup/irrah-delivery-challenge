@@ -122,6 +122,7 @@ Com base nessas métricas:
 * O que pode estar acontecendo no time?
 * Quais ações você investigaria?
 * Que métricas complementares poderiam ajudar?
+* Qual a previsibilidade de entrega do time na semana 5?
 
 ---
 
