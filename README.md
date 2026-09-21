@@ -32,6 +32,7 @@ Não buscamos respostas “certas” ou “erradas”. O mais importante é ente
 * Você pode usar exemplos hipotéticos.
 * Não existe limite mínimo ou máximo de linhas.
 * Caso considere necessário, pode utilizar diagramas, tabelas ou fluxos.
+* Sempre que puder, complemente cada resposta com a sua experiência profissional (conte um case que você viu semelhante a questão e como você atuou). 
 
 ---
 
